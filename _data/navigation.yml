@@ -8,7 +8,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Publications"
+    link: /publications.html
   - name: Home
     link: /
   - name: Blog
     link: /blog.html
+
