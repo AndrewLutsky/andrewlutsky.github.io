@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Lutsky"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/Images/Pictures/PersonalWebsite.png# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bioinformatics Software Engineer"
   location         : "Charleston, SC"
-  email            : 
+  email            : andrew.lutsky19@gmail.com 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

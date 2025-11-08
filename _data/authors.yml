@@ -2,8 +2,8 @@
 
 Andrew Lutsky:
   name        : "Andrew Lutsky"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "Bioinformatics Software Engineer"
+  avatar      : "/assets/Images/Pictures/PersonalWebsite.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
