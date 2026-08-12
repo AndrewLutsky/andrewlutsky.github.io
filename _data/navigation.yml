@@ -9,7 +9,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Publications"
-    url: /publications.html
+    url: https://scholar.google.com/citations?hl=en&user=iAtA0RcAAAAJ&view_op=list_works&sortby=pubdate 
   - title: "CV"
     url: /assets/LutskyCV.pdf
   - name: Home

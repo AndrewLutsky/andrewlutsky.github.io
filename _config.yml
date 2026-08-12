@@ -121,21 +121,21 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:andrew.lutsky19@gmail.com"
+      url: "mailto:andrew.lutsky19@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://andrewlutsky.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/AndrewLutsky"
+      url: "https://github.com/AndrewLutsky"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/AndrewLutsky"
-  since: "2025"
+      url: "https://github.com/AndrewLutsky"
+  since: "2026"
 
 
 # Reading Files
