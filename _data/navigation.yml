@@ -9,11 +9,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Publications"
-    link: /publications.html
+    url: /publications.html
   - title: "CV"
-    link: /assets/LutskyCV.pdf
+    url: /assets/LutskyCV.pdf
   - name: Home
-    link: /
+    url: /
   - name: Blog
-    link: /blog.html
+    url: /blog.html
 
