@@ -10,6 +10,8 @@ main:
   #   url: /sitemap/
   - title: "Publications"
     link: /publications.html
+  - title: "CV"
+    link: /assets/LutskyCV.pdf
   - name: Home
     link: /
   - name: Blog
