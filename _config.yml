@@ -119,15 +119,15 @@ author:
   location         : "Charleston, SC"
   email            : andrew.lutsky19@gmail.com 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:andrew.lutsky19@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://andrewlutsky.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AndrewLutsky"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/alutsky2"
 
 # Site Footer
 footer:
